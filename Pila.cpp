@@ -6,7 +6,7 @@
 #include <stack>  
 using namespace std;
 
-int tesvar=10;
+int tesvar=5;
 
 //funzione pila
 template<typename T>
