@@ -6,6 +6,8 @@
 #include <stack>  
 using namespace std;
 
+int tesvar=10;
+
 //funzione pila
 template<typename T>
 void createStack(stack <T> mystack);
