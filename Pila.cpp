@@ -6,7 +6,7 @@
 #include <stack>  
 using namespace std;
 
-int tesvar=10;
+int tesvar=7;
 
 //funzione pila
 template<typename T>
@@ -78,3 +78,5 @@ void createStack(stack <T> mystack)
     cout << '\n';
 }
 
+void TestFunction(){
+}
